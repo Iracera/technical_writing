@@ -150,6 +150,3 @@ MIT License
 For questions, please contact me at: myemail@example.com
 ```
 
-### Conclusion
-
-Following this structure and using the provided syntax will help you
